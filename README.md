@@ -4,9 +4,9 @@
 
 ```sh
 
-$ git clone https://github.com/HarishJangra/react-native-easy-starter.git
+$ git clone https://github.com/samratbanna/DemandSideExcercise.git
 
-$ cd react-native-easy-starter
+$ cd DemandSideExcercise
 
 $ yarn
 

@@ -1,0 +1,7 @@
+const ROUTES = {
+  STACK: 'STACK',
+  HOME_SCREEN: 'HOME_SCREEN',
+  MOVIE_DETAIL: 'MOVIE_DETAIL',
+};
+
+export default ROUTES;
